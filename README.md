@@ -1,4 +1,4 @@
-# WhatsApp web app
+# Chat Feature for Student Hub
 - A WhatsApp web app clone with google authentication
 
 
